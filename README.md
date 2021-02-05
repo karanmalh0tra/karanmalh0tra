@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Malhotra</h1>
-<h3 align="center">Incoming CS Grad Student at University of Illinois, Chicago </h3>
+<h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
-- 🌱 I’m currently learning: Mobile App Development
+- 🌱 I’m currently learning: Mobile App Development, Database Systems, Data Science
 - 👯 I’m looking to collaborate on: Software Development Projects
 - 🤔 I’m looking for help with: Mobile App Development/Full Stack Web
 - 💬 Ask me about: DevOps Tools like Docker, Ansible, Jenkins, Cloud and middle-ware tools like Nginx, Haproxy, Redis
