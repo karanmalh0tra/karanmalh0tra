@@ -1,3 +1,4 @@
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=karanmalh0tra.karanmalh0tra)](https://github.com/karanmalh0tra)
 <h1 align="center">Hi 👋, I'm Karan Malhotra</h1>
 <h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
