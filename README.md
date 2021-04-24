@@ -17,8 +17,6 @@
 </div>
 
 <br>
-<p align="center">
-<a href="https://www.linkedin.com/in/karanmalhotra09/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karanmalhotra09" height="30" width="30" /></a>
-<a href="https://www.facebook.com/karan.9.malhotra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="karan.9.malhotra" height="30" width="30" /></a>
-<a href="https://www.instagram.com/karan._.malhotra/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="karan._.malhotra" height="30" width="30" /></a>
-</p>
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:m9.karan@gmail.com">![m9.karan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karanmalhotra09/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
