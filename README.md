@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Karan Malhotra</h1>
 <h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
+- 💼 I'm current employed as: Web Developer @ Student Affairs Technology, UIC
 - 🌱 I’m currently learning: JavaScript, C#, ASP.NET
 - 👯 I’m looking to collaborate on: Software Development Projects
 - 🤔 I’m looking for help with: Full Stack Web Development
