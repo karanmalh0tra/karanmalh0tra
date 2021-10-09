@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on: Software Development/DevOps/Cloud Projects
 - 🤔 I’m looking for help with: Full Stack Web Development
 - 💬 Ask me about: Android Dev, DevOps, Database Systems
-- 📫 How to reach me: m9.karan@gmail.com
+- 📫 How to reach me: me@karanmalhotra.dev
 - 😄 Pronouns: he/him
 
 <br>
@@ -18,4 +18,4 @@
 <br>
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:m9.karan@gmail.com">![m9.karan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karanmalhotra09/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:me@karanmalhotra.dev">![me@karanmalhotra.dev](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/karanmalhotra09/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
