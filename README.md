@@ -3,10 +3,10 @@
 <h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
 - 💼 I'm currently employed as: Full Stack Developer @ Student Affairs Technology, UIC
-- 🌱 I’m currently learning: Cloud Computing Objects, Concurrent Systems Programming
-- 👯 I’m looking to collaborate on: Software Development/DevOps/Cloud Projects
+- 🌱 I’m currently learning: Concurrent Systems Programming, Cloud and DevOps
+- 👯 I’m looking to collaborate on: Full Stack Projects (Development + Cloud DevOps)
 - 🤔 I’m looking for help with: Full Stack Web Development
-- 💬 Ask me about: Android Dev, DevOps, Database Systems
+- 💬 Ask me about: Cloud, Concurrency, DevOps, Database Systems
 - 📫 How to reach me: me@karanmalhotra.dev
 - 😄 Pronouns: he/him
 
