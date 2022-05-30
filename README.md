@@ -1,6 +1,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=karanmalh0tra.karanmalh0tra)](https://github.com/karanmalh0tra)
 <h1 align="center">Hi 👋, I'm Karan Malhotra</h1>
-<h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
+<h3 align="center">SDE Intern @ Amazon | CS Grad Student at University of Illinois, Chicago </h3>
 
 - 💼 I'm currently employed as: Software Dev Engineer at Amazon
 - 👁 I'm on the lookout for: Software Engineer roles that start from Jan 2023
