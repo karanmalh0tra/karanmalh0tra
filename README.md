@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Karan Malhotra</h1>
 <h3 align="center">CS Grad Student at University of Illinois, Chicago </h3>
 
-- 💼 I'm currently employed as: Full Stack Developer @ Student Affairs Technology, UIC
-- 🌱 I’m currently learning: Concurrent Systems Programming, Cloud and DevOps
-- 👯 I’m looking to collaborate on: Full Stack Projects (Development + Cloud DevOps)
-- 🤔 I’m looking for help with: Full Stack Web Development
+- 💼 I'm currently employed as: Software Dev Engineer at Amazon
+- 👁 I'm on the lookout for: Software Engineer roles that start from Jan 2023
+- 👨🏽‍🎓💼 During the semester, I work as a Full Stack Developer @ Student Affairs Technology, UIC
 - 💬 Ask me about: Cloud, Concurrency, DevOps, Database Systems
 - 📫 How to reach me: me@karanmalhotra.dev
 - 😄 Pronouns: he/him
